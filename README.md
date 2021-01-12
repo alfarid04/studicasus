@@ -1,5 +1,9 @@
 # StudiCase
 
+Nama :alfarid p.yusuf
+NIM  :19.11.2841
+KELAS:19-IF-04
+
 Aplikasi Promos keranjang/kasir sederhana yang juga merupakan modifikasi aplikasi di repo sebelumnya dan sekarang memperbaiki dengan menambahkan beberapa fitur baru
 
 # Algoritma
